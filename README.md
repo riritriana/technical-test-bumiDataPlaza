@@ -1,16 +1,15 @@
 # 🚀 Tugas Teknis: Sistem Manajemen Tugas (Task Management System)
 
-Aplikasi berbasis Laravel ini dibuat untuk memenuhi persyaratan *Technical Test* dan mencakup fungsionalitas CRUD (Create, Read, Update, Delete) lengkap untuk Proyek dan Tugas, serta fitur analisis data (Analytics).
 
 ## Fitur Utama
 
 Aplikasi ini berhasil mengimplementasikan semua poin yang diminta dalam tes:
 
 * **CRUD Lengkap:** Manajemen Projects dan Tasks.
-* **Progress Project (2c):** Menghitung persentase Task Done dengan Progress Bar.
+* **Progress Project :** Menghitung persentase Task Done dengan Progress Bar.
 * **Status Task:** Status diterjemahkan dari angka (1, 4) menjadi label (`Todo`, `Done`, dll.).
-* **Project Bermasalah (2e):** Penandaan Project jika ada **Overdue Task** (> 0) **DAN** **Progress** (< 50%).
-* **Statistik (2d):** Laporan Task Selesai per Bulan/Tahun.
+* **Project Bermasalah :** Penandaan Project jika ada **Overdue Task** (> 0) **DAN** **Progress** (< 50%).
+* **Statistik :** Laporan Task Selesai per Bulan/Tahun.
 * **Sinkronisasi Status:** Status Project otomatis berubah menjadi "Done" jika semua Tasks di dalamnya selesai (100% Progress).
 
 ---
