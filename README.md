@@ -30,8 +30,8 @@ Pastikan Anda memiliki lingkungan pengembangan berikut:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/riritriana/technical-test-bumiDataPlaza.git
-cd technical-test-bumiDataPlaza
+git clone https://github.com/riritriana/task-management-system.git
+cd task-management-system
 ```
 
 ### 2. Instal Dependensi
