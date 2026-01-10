@@ -3,7 +3,7 @@
 
 ## Fitur Utama
 
-Aplikasi ini berhasil mengimplementasikan semua poin yang diminta dalam tes:
+Aplikasi ini berhasil mengimplementasikan beberapa fitur:
 
 * **CRUD Lengkap:** Manajemen Projects dan Tasks.
 * **Progress Project :** Menghitung persentase Task Done dengan Progress Bar.
